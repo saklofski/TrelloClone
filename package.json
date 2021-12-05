@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ArchawinWongkittiruk/TrelloClone.git"
+    "url": "git+https://github.com/saklofski/TrelloClone.git"
   },
-  "author": "Archawin Wongkittiruk",
+  "author": "Hatem Sakly",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ArchawinWongkittiruk/TrelloClone/issues"
+    "url": "https://github.com/saklofski/TrelloClone/issues"
   },
-  "homepage": "https://github.com/ArchawinWongkittiruk/TrelloClone#readme",
+  "homepage": "https://github.com/saklofski/TrelloClone#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "dotenv": "^8.2.0",
